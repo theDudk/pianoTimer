@@ -11,12 +11,12 @@ let schedule = [
     {
         title: "Theory pg. 54",
         color: "var(--bs-info)",
-        time: TOTALTIME/20*3,
+        time: TOTALTIME/20*5,
     },
     {
         title: "Etude 1",
         color: "var(--bs-indigo)",
-        time: TOTALTIME/20*7,
+        time: TOTALTIME/20*5,
     },
     {
         title: "Etude 2",
